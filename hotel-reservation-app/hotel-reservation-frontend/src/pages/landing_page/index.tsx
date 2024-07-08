@@ -39,6 +39,7 @@ export default function LandingPage() {
         Get Started...
       </Button>
 
+
     </Box>
   );
 }
